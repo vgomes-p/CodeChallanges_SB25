@@ -1,4 +1,4 @@
-# Code Challenge 00 - Exploring Operators and String Manipulation | Ex01
+# Code Challenge 00: Exploring Operators and String Manipulation | ex01 - E-mail checker
 
 Write a program that checks whether a given email address is valid according to specific formatting rules.
 

@@ -1,4 +1,4 @@
-# Code Challenge 00 - Exploring Operators and String Manipulation | Ex00
+# Code Challenge 00: Exploring Operators and String Manipulation | ex00 - Online Discount
 
 Create a program that calculates the final price of a product after applying a discount cupom.
 
